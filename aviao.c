@@ -1,5 +1,6 @@
-//Gabriel Diogenes
 //Alex Aparecido
+//Gabriel Diogenes
+
 
 #include <stdio.h>
 #include <stdlib.h>
